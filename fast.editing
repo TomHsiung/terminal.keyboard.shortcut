@@ -1,0 +1,10 @@
+/*
+In the terminal, you can delete syntax quickly using the following shortcuts:
+
+    Use Ctrl + U to delete all text before the cursor.
+    Use Ctrl + K to delete all text after the cursor.
+    Use Ctrl + W to delete the previous word.
+    Use Ctrl + Y to paste the last text that was deleted.
+
+These shortcuts work in most terminal emulators and can help you quickly delete syntax or commands without using the backspace key.
+*/
